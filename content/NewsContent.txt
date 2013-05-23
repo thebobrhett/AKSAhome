@@ -1,0 +1,199 @@
+'<item>
+'  <title>
+'  </title>
+'
+'  <headlinelink>
+'  </headlinelink>
+'
+'  <headlineimage>
+'  </headlineimage>
+'
+'  <headlineimagesize>
+'  </headlineimagesize>
+'
+'  <headline>
+'  </headline>
+'
+'  <storyimage>
+'  </storyimage>
+'
+'  <storyimagesize>
+'  </storyimagesize>
+'
+'  <story>
+'  </story>
+'</item>
+
+<item>
+  <title>
+    aksadomainwelcome
+  </title>
+
+  <headlinelink>
+  </headlinelink>
+
+  <headlineimage>
+    images/computericon.gif
+  </headlineimage>
+
+  <headlineimagesize>
+    width='72' height='72'
+  </headlineimagesize>
+
+  <headline>
+    Welcome to the AKSA domain
+    Contact the AKSA Help Desk (1900) for password resets, new accounts, and all other computer and telecommunications issues.
+  </headline>
+
+  <storyimage>
+  </storyimage>
+
+  <storyimagesize>
+  </storyimagesize>
+
+  <story>
+  </story>
+</item>
+
+<item>
+  <title>
+    OutlookSetup
+  </title>
+
+  <headlinelink>
+    http://mogsa4/sysisdocs/MS Outlook 2003 Training/AKSA Outlook Setup Procedure.doc
+  </headlinelink>
+
+  <headlineimage>
+    images/outlook.gif
+  </headlineimage>
+
+  <headlineimagesize>
+    width='50' height='50'
+  </headlineimagesize>
+
+  <headline>
+    Read how to set up Microsoft Outlook to access your email.
+  </headline>
+
+  <storyimage>
+  </storyimage>
+
+  <storyimagesize>
+  </storyimagesize>
+
+  <story>
+  </story>
+</item>
+
+<item>
+  <title>
+    safetytopic
+  </title>
+
+  <headlinelink>
+    http://mogsa4/safety/index.html
+  </headlinelink>
+
+  <headlineimage>
+    http://mogsa4/safety/picture_link.jpe
+  </headlineimage>
+
+  <headlineimagesize>
+    width='195' Height='125'
+  </headlineimagesize>
+
+  <headline>
+    Check out this month's safety topic
+    This month we review MSDS, Proper Labeling, Spill Reporting, Environmental, and Waste Handling
+  </headline>
+
+  <storyimage>
+  </storyimage>
+
+  <storyimagesize>
+  </storyimagesize>
+
+  <story>
+  </story>
+</item>
+
+<item>
+  <title>
+    employeeofthemonth
+  </title>
+
+  <headlinelink>
+  </headlinelink>
+
+  <headlineimage>
+    http://mogsa4/images/EmployeeoftheMonth.gif
+  </headlineimage>
+
+  <headlineimagesize>
+    width='60' height='60'
+  </headlineimagesize>
+
+  <headline>
+    Mark Sowerby is the AKSA Employee of the Month for February 2007.
+  </headline>
+
+  <storyimage>
+    http://mogsa4/images/EmployeeoftheMonth.gif
+  </storyimage>
+
+  <storyimagesize>
+    width='180' height='180'
+  </storyimagesize>
+
+  <story>
+    The "AKSA Employee of the Month" for February 2007 was awarded to: Mark Sowerby
+    Congratulations, Mark!! Here's what he is recognized for:
+    Mark Sowerby On the night of 2/19/2007 there were some non-routine tasks to be completed in Poly. CE-1 and CD-4 had to be shut down and prepped for thorough cleaning and start up the next morning.
+    Normally, Charlie Richer does this work on days, but due to the high volume of the machines and the decreased process capacity to produce Poly during the expansion, it was necessary for the preparation during night shift for an efficient turn around to meet demand.
+    Next, the mix vessel had to be prepped, filled and rinsed with hot DMAC for an infrequent thorough cleaning.
+    Third, we were in the process of reducing NCO's so those samples had to be pulled and ran. These samples had been eliminated on night shift with the reduction of personnel per shift and the start of the day shift lab team.
+    Fourth, KMI results came in off and extra sampling was required there.
+    Fifth, a new type Sorbacid filter was just starting and it became necessary for the first one to be changed after 3 hours. With this, that filter had to be changed out in case the second filter didn't last longer. The filters had been lasting several days.
+    Sixth, the List Unit was running poorly and required extra attention as well as the Netzsch running.
+    Of course in addition to these tasks, there was the usual shift task of checking reactors, charging acid, recording the field meter readings and verifying MDI.
+    The biggest stand out about all of this is our third person had to go home sick just a few hours into the shift. All of these extra tasks were safely and correctly completed with a newer person in the control room and Mark in the field.
+    When it would have been very easy to just say there's no way I can do all of this by myself, Mark carefully prioritized and effectively planned out a course of action that yielded a safe and efficient completion of task.
+    He communicated with Will in the control room, with spinning and myself to ensure every step was correctly done and that potential safety areas where identified and barricaded around the cleaning. At the end of the night all samples had been pulled and ran, reactors where checked to ensure they were empty, acid charged, field meter readings recorded, MDI verified, 2 Sorbacid filters changed, Netzsch batch completed, List Unit still running, CD-4 and CE-1 drained, prepped and flushing started and the Mix vessel flushing with hot DMAC as well as other smaller tasks. Charlie was very appreciative of how much Mark was able to get accomplished and it made for a quick turn around of this vital equipment.
+    I am very appreciative of Mark's professional approach and the high level of accomplishment while maintaining the highest level of safety and efficiency. Great job Mark! (submitted by - Shane Moseley)
+    Thanks to everyone who contributes to making Dorlastan a safer, more productive, more efficient and more fun place to work. 
+  </story>
+</item>
+
+<item>
+  <title>
+    sloganwinner
+  </title>
+
+  <headlinelink>
+  </headlinelink>
+
+  <headlineimage>
+  </headlineimage>
+
+  <headlineimagesize>
+  </headlineimagesize>
+
+  <headline>
+    A Stretch Above The Rest
+    Congratulations to Steve Harrelson, the winner of our slogan contest...
+  </headline>
+
+  <storyimage>
+  </storyimage>
+
+  <storyimagesize>
+  </storyimagesize>
+
+  <story>
+    We would like to sincerely thank everyone who submitted slogans, we had over 200 entries. We would also like to thank the committee members that were given the challenge to select the top ten. We encourage you to keep checking our web page to see if your slogan was selected as one of the top ten. 
+    Again, our appreciation and thanks to all participants. Have a great day and think safety, 
+    Best Regards...Gregor and Karen 
+  </story>
+</item>
+
